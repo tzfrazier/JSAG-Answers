@@ -18,3 +18,29 @@
 .cool-beans-coffee-3-hsla { color: hsla(181, 28, 49, 1); }
 .cool-beans-coffee-4-hsla { color: hsla(27, 37, 37, 1); }
 .cool-beans-coffee-5-hsla { color: hsla(22, 39, 25, 1); }
+
+/* General body*/
+body {
+  background-color: #F0E9F0;
+}
+* {
+  font-family:sans-serif;
+}
+/*Header*/
+header{
+  background-color: white;
+}
+/*nav*/
+nav  {
+  background-color: #F0E9F0;
+}
+nav>img {
+  height: 90px;
+}
+.menuDSP {
+  border: solid #593A27 2px;
+  border-radius: 5px;
+}
+.menuCtr{
+  display: none;
+}
