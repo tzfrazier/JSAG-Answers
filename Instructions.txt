@@ -1,0 +1,21 @@
+From the included assets in the project file code the website of a coffee shot.
+Your site must be based on the primary brand colors, but I recommend choosing a new off white rather than F0E9F0, which is a pink-white.
+# html
+Each page in your site should have your name in the appropriate meta tag
+Remove the color swatches from the main page.
+
+# css
+Use a single css file to style each of the pages included in the project files.
+Use comments to help you organize your code.
+Be responsive.
+The about page and contact us pages have a current class in their menu to provide a breadcrumb for the user, come up with a visually distinct way to represent this within the navigation menu.
+The headings on the contact menu should be smaller than the h1 on other portions of the site.
+The divs containing the different ways to contact should be styled as blocks.
+The first word in each paragraph of the about page should be highlighted and a different color than the rest of the text.
+The menu should have a visual hierarchy.
+Each items price should have a dollar sign in front of it. Add this in CSS not HTML.
+# JavaScript
+Create a menu from the definitional lists with buttons that only shows selected
+  In addition make it so that the menu has buttons that show and hide the parts of the menu that the user might want to look.
+    Use javascript for this.
+  Create a way to highlight specials either using css or javascript

@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.cool-beans-coffee-1-hex {background-color: #F0E9F0; height:128px; width: 128px; display: block; float: left;}
+.cool-beans-coffee-2-hex { background-color: #034F61; height:128px; width: 128px; display: block; float: left;}
+.cool-beans-coffee-3-hex { background-color: #5BA0A2; height:128px; width: 128px; display: block; float: left;}
+.cool-beans-coffee-4-hex { background-color: #855E3C; height:128px; width: 128px; display: block; float: left;}
+.cool-beans-coffee-5-hex { background-color: #593A27; height:128px; width: 128px; display: block; float: left;}
+
+/* Color Theme Swatches in RGBA */
+.cool-beans-coffee-1-rgba { color: rgba(239, 232, 239, 1); }
+.cool-beans-coffee-2-rgba { color: rgba(2, 79, 96, 1); }
+.cool-beans-coffee-3-rgba { color: rgba(91, 160, 161, 1); }
+.cool-beans-coffee-4-rgba { color: rgba(133, 93, 59, 1); }
+.cool-beans-coffee-5-rgba { color: rgba(89, 58, 38, 1); }
+
+/* Color Theme Swatches in HSLA */
+.cool-beans-coffee-1-hsla { color: hsla(300, 18, 92, 1); }
+.cool-beans-coffee-2-hsla { color: hsla(191, 94, 19, 1); }
+.cool-beans-coffee-3-hsla { color: hsla(181, 28, 49, 1); }
+.cool-beans-coffee-4-hsla { color: hsla(27, 37, 37, 1); }
+.cool-beans-coffee-5-hsla { color: hsla(22, 39, 25, 1); }
