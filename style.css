@@ -20,24 +20,30 @@
 .cool-beans-coffee-5-hsla { color: hsla(22, 39, 25, 1); }
 
  General body*/
-body {
-  background-color: #F0E9F0;
-}
+
 * {
   font-family:sans-serif;
+}
+main {
+  background-color: #F0E9F0;
+  margin: -20px;
+  padding: 20px;
 }
 /*Header*/
 header{
   background-color: white;
 }
 header img {
-  height: 85px;
+  max-height: 10%;
+  max-width: 100%;
 }
 /*nav*/
 nav  {
   background-color: #F0E9F0;
+  margin: -20px;
 }
-nav>img {
+
+nav > img {
   height: 90px;
 }
 /*menu styling*/
@@ -46,11 +52,13 @@ nav>img {
   background-color:#593A27;
   border: solid #593A27 2px;
   border-radius: 5px;
+  margin:5px;
 }
 .menu{
-  margin: 5px;
-  padding: 5px;
+  margin: 15px;
+  padding: 15px;
   background-color: #855E3C;
+  font-size:1.35em;
 }
 .menu dt{
   margin-top: 5px;
@@ -58,7 +66,25 @@ nav>img {
 .menuCtr{
   display: none;
 }
+.itemname {
+  text-decoration: underline;
+  font-size: 1.4em;
+  margin-top:1.2em;
+}
+.price {
+  font-weight: bold;
+}
+.price::before{
+  content: "$";
+}
+.description
+{
+  font-style: italic;
+
+}
 /*about Specific*/
 article h1 {
   color:#593A27;
 }
+/*Footer*/
+footer {margin-top:20px;}
