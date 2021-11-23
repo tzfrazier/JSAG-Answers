@@ -13,3 +13,11 @@ cBtn.onclick = function(){
         hideitall();
         document.getElementById('coffeeMenuCtr').setAttribute("class", "menuDSP");
       };
+hBtn.onclick = function(){
+              hideitall();
+              document.getElementById('hotMenuCtr').setAttribute("class", "menuDSP");
+            };
+iBtn.onclick = function(){
+        hideitall();
+        document.getElementById('coldMenuCtr').setAttribute("class", "menuDSP");
+                  };
